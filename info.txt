@@ -1,0 +1,7 @@
+Name: RCL Letter Avatar;
+Version: 1.0.9;
+Support Core: 16.6.0;
+Description: Генерация аватарки на основе имени фамилии никнейма для WP-Recall;
+Author: SAZONISCHE;
+Author Uri: https://codeseller.ru/author/sazonische/;
+Add-on Uri: https://codeseller.ru/products/rcl-first-letter-avatar/;
